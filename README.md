@@ -81,6 +81,8 @@ Given num is odd number
 Would you like me to also **prepare README templates for all 10 tasks** so you only need to fill the description for each one?
 ```
 
+# BH Intern Task 2
+
 # Java Collections & Sorting — Employee List
 
 **Simple internship task:** create an `Employee` class, store employees in a collection, and show sorting using `Comparator` (salary desc, name asc).
